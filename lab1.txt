@@ -2,3 +2,6 @@ Experiment 1: Git Initialization and First Commit
 
 This file is created using Notepad.
 It demonstrates basic Git operations such as init, add, and commit.
+
+
+completed Experiment 1 and now starting to do Experiment 2
