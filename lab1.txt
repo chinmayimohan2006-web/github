@@ -5,3 +5,6 @@ It demonstrates basic Git operations such as init, add, and commit.
 
 
 completed Experiment 1 and now starting to do Experiment 2
+
+
+Experiment 8 gives advanced git operations
