@@ -1,9 +1,8 @@
-#include<stdio.h>
+a = 10
+b = 5
 
-void main()
-{
-int a=10,b=20,c;
-c=a+b
-print("result=",c)
+sum = a + b
+
+print("The sum is:", sum)
 print("hi feature-branch")
 print("completed till experiment 5")
